@@ -73,4 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Screenshots
 
-![Home](/repository/src/2.jpg?raw=true "Home")
+![Home](/Jabber-Public-Chatting-Forum-/src/2.jpg?raw=true "Home")
