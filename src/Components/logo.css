@@ -1,0 +1,29 @@
+.logo{
+    /* background-color:rgb(23, 18, 18); */
+    /* background-color: rgb(33, 33, 40); */
+    background-color: rgb(43, 38, 38);
+    margin-left: 0px;
+    width: 300px;
+    /* box-shadow: -1px 4px 20px -6px rgba(0, 0, 0,0.75); */
+    box-shadow: 10px 5px 5px rgb(62, 5, 62);
+    border-radius: 25px;
+    display: flex;
+}
+
+.logoOrginal{
+    height: 300px;
+    width: 250px;
+    border-radius:40px ;
+    /* padding:30px; */
+  /* bottom: 50%; */
+  margin-left: 15px;
+  position:relative;
+
+}
+
+.logoAlign{
+   
+  position: absolute;
+  top: 20%;
+  left: 75%;
+}

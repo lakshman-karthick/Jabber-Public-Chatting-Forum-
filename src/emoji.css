@@ -1,0 +1,33 @@
+.emo{
+    border: 1px solid #011627;
+    border-radius: 1em;
+    box-shadow: -2px 5px 5px #7a0c98;
+    background-color: #FDFFFC;
+}
+
+.emoj{
+    /* margin-left: 100px; */
+    /* --root-width:100px; */
+    margin-right: 20px;
+}
+
+
+.emoji{
+    position:relative; 
+    padding: 0px;
+    left: 5%;
+    top: 0%;
+    font-family:'Times New Roman', Times, serif;
+    font-style:inherit;
+    width: 8%; 
+    height: 30%;
+}
+
+/* #pick{
+
+    width: 100px;
+    height: 100px;
+    --num-columns: 6;
+    --emoji-size: 3rem;
+    --background: gray;
+} */
