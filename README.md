@@ -32,7 +32,7 @@ React JS is used for frontend and Firebase is used as Database as well as for Au
         => React Routers
         => React Hooks
         => Emoji Picker
-- Firebase (Database,Google Authentication)
+- Firebase (Database,Google Authentication,Hosting)
 - Material UI (Icons)
 
 ## Features
@@ -45,7 +45,8 @@ React JS is used for frontend and Firebase is used as Database as well as for Au
 - Adding New Chats
 - Feedback Contact Form
 
-
+## Hosted Project Link
+https://messenger-c4890.web.app/
 
 ## Demo
 
